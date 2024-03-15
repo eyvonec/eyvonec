@@ -15,12 +15,17 @@
  - Skilled in risk assessment methodologies
  - Enthusiastic about deep learning and its applications in automating decision-making processes
     
- 👀 I’m interested in Deep Learning, Random Forest, Recommendation System, etc. 
- 🌱 I’m currently learning and working on a capstone project on Recommendation System. 
- 💞️ I’m looking to collaborate on projects that sit at the intersection of finance and technology, especially those focused on innovation in investment strategies.
- 📫 How to reach me? I'm open to opportunities where I can contribute and grow as a data scientist. You can reach me at eyvonnechen@example.com | (https://www.linkedin.com/in/eyvonechen/)
- 😄 Pronouns: she/her
- ⚡ Fun fact: I am also a part-time travel YouTuber
+👀 I’m interested in Deep Learning, Random Forest, Recommendation System, etc. 
+
+🌱 I’m currently learning and working on a capstone project on Recommendation System. 
+
+💞️ I’m looking to collaborate on projects that sit at the intersection of finance and technology, especially those focused on innovation in investment strategies.
+
+📫 How to reach me? I'm open to opportunities where I can contribute and grow as a data scientist. You can reach me at eyvonnechen@example.com | (https://www.linkedin.com/in/eyvonechen/)
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I am also a part-time travel YouTuber
 
 <!---
 eyvonec/eyvonec is a ✨ special ✨ repository because its `self-intro.md` (this file) appears on your GitHub profile.
