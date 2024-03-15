@@ -28,6 +28,6 @@
 ⚡ Fun fact: I am also a part-time travel YouTuber
 
 <!---
-eyvonec/eyvonec is a ✨ special ✨ repository because its `self-intro.md` (this file) appears on your GitHub profile.
+eyvonec/eyvonec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
