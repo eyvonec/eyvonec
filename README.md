@@ -21,7 +21,7 @@
 
 💞️ I’m looking to collaborate on projects that sit at the intersection of finance and technology, especially those focused on innovation in investment strategies.
 
-📫 How to reach me? I'm open to opportunities where I can contribute and grow as a data scientist. You can reach me at eyvonnechen@example.com | (https://www.linkedin.com/in/eyvonechen/)
+📫 How to reach me? I'm open to opportunities where I can contribute and grow as a data scientist. You can reach me at  https://www.linkedin.com/in/eyvonechen/
 
 😄 Pronouns: she/her
 
