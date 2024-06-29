@@ -23,7 +23,7 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I am also a part-time travel YouTuber
+⚡ Fun fact: I am also a part-time travel YouTuber: https://www.youtube.com/@eyvonnechen
 
 <!---
 eyvonec/eyvonec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
