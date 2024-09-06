@@ -10,10 +10,12 @@
   - Applied Data Science Program: Leveraging AI for Effective Decision-Making with MIT Professional Education
     
 🛠 Skills:
- - Proficient in Python and R for data analysis, machine learning, deep learning, etc.
- - Experienced in SQL for data querying and management
- - Skilled in financial analysis & risk assessment 
- - Enthusiastic about deep learning and its applications in automating decision-making processes
+  - Programming Languages: Python (advanced), MATLAB, SQL, R
+  - ML Frameworks: TensorFlow, Keras
+  - Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
+  - Tools: Jupyter Notebooks, RStudio, MS Excel, MS Office, Streamlit
+  - Statistics/Machine Learning: Hypothesis testing, EDA, PCA, Linear/Logistic Regression, Decision Trees, Radom Forest, Bagging and Boosting (XGBoost, AdaBoost, Gradient Boost, CatBoost), Support Vector Machines, Clustering, Natural Language Processing, Deep Learning (CNN)
+  - Version Control: Github
     
 👀 I’m interested in LLM, AI, Deep Learning, Random Forest, Recommendation System, etc. 
 
