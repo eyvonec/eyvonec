@@ -1,6 +1,6 @@
 👋 Hi, I’m Eyvone
   
-📈 AI&ML Data Scientist | Economics & Accounting Background | Master’s in Banking & Finance | Data Science & AI with MIT Professional Education
+📈 AI&ML Data Analyst/Scientist | Economics & Accounting Background | Master’s in Banking & Finance | Data Science & AI with MIT Professional Education
   
 🚗 With a solid career in finance & risk analysis, I bring a unique perspective to data science, combining deep domain knowledge in finance and economics with cutting-edge analytical techniques.
 
