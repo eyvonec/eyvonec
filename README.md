@@ -1,8 +1,8 @@
 👋 Hi, I’m Eyvone
   
-📈 AI&ML Data Analyst/Scientist | Economics & Accounting Background | Master’s in Banking & Finance | Data Science & AI with MIT Professional Education
+📈 Special Researcher @ SSRI (a japanese thinktank)| Economics & Accounting Background | Master’s in Banking & Finance | Data Science & AI with MIT Professional Education
   
-🚗 With a solid career in finance & risk analysis, I bring a unique perspective to data science, combining deep domain knowledge in finance and economics with cutting-edge analytical techniques.
+🚗 With a solid career in finance & risk analysis, as well as international relations, I bring a unique micro to macro perspective to data science, combining deep domain knowledge in finance, economics and geopolitics with cutting-edge analytical techniques.
 
 🎓 Education:
   - Master in Banking and Finance, University of St. Gallen (HSG)
